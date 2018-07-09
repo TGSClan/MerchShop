@@ -1,0 +1,31 @@
+<!doctype html>
+<head>
+      <title> Chef Curry </title>
+</head>
+<body>
+<h1> Darion's small feet </h1>
+  <p> My favorite pair of shoes are the cool grey 11 jordans </P>
+<h2> Demontae waves banging </h2>
+<p> Mines go be banging in a minute</p>
+<h3> The top 5 fortnite gamers </h3>
+  <li> Ninja </li>
+  <li> DrLupo </li>
+  <li> CourageJD </li>
+  <li> TSM Myth </li>
+  <li> TSM Deaquan </li>
+  <h1> Who is your favorite fortnite steamer </h1>
+  <a href="https://www.youtube.com/results?search_query=tgs+nova"
+  <p> here the link to my youtube channel </p>
+  <img src="https://clutchpoints.com/wp-content/uploads/2018/02/Stephen-Curry-1.jpg"> </img>
+  <form>
+  First name:<br>
+  <input type="text" name="firstname" placeholder= “Darion”><br>
+  Last name:<br>
+  <input type="text" name="lastname" placeholder=“Thomas”>
+
+</form>
+<h2> Fortnite </h2>
+<p> Username<br> Yinyangbang12 PS4
+
+</body>
+<html>
